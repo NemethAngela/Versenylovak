@@ -1,0 +1,4 @@
+3,Tuzsziv,3,Fogatverseny lo,2017. 02. 14. 0:00:00,25
+7,Sivatagi Szel,1,Arab,2017. 08. 18. 0:00:00,22
+12,Galoppzene,1,Verseny lo,2017. 05. 20. 0:00:00,32
+15,Napfeny,1,Tinker,2017. 12. 03. 0:00:00,14

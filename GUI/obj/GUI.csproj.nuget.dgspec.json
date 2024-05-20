@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\GUI\\GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\BackendVersenylovak.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\BackendVersenylovak.csproj",
+        "projectName": "BackendVersenylovak",
+        "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\BackendVersenylovak.csproj",
+        "packagesPath": "C:\\Users\\nemet\\.nuget\\packages\\",
+        "outputPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nemet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\nemet\\.nuget\\packages\\",
+        "outputPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nemet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\EzaBackendVersenylovak.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\EzaBackendVersenylovak.csproj",
+        "projectName": "EzaBackendVersenylovak",
+        "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\EzaBackendVersenylovak.csproj",
+        "packagesPath": "C:\\Users\\nemet\\.nuget\\packages\\",
+        "outputPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nemet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\GUI\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\nemet\\.nuget\\packages\\",
+        "outputPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nemet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\BackendVersenylovak.csproj": {
+                "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\BackendVersenylovak\\BackendVersenylovak.csproj"
+              },
+              "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\ClassLibrary\\ClassLibrary.csproj"
+              },
+              "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\EzaBackendVersenylovak.csproj": {
+                "projectPath": "C:\\Angéla\\KULKER\\2_ÉVF\\Versenylovak\\EzaBackendVersenylovak\\EzaBackendVersenylovak.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

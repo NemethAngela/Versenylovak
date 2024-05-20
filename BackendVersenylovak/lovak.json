@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nev": "Szelvesz",
+    "istalloId": 1,
+    "fajta": "Magyar sportlo",
+    "szuletesidatum": "2015-04-10",
+    "versenyekszama": 20
+  },
+  {
+    "id": 2,
+    "nev": "Csillagfeny",
+    "istalloId": 2,
+    "fajta": "Arab",
+    "szuletesidatum": "2018-09-22",
+    "versenyekszama": 15
+  },
+  {
+    "id": 3,
+    "nev": "Tuzsziv",
+    "istalloId": 3,
+    "fajta": "Fogatverseny lo",
+    "szuletesidatum": "2017-02-14",
+    "versenyekszama": 25
+  },
+  {
+    "id": 4,
+    "nev": "Zephyr",
+    "istalloId": 3,
+    "fajta": "Angol teliver",
+    "szuletesidatum": "2016-11-30",
+    "versenyekszama": 30
+  },
+  {
+    "id": 5,
+    "nev": "Hajnalcsillag",
+    "istalloId": 2,
+    "fajta": "Tinker",
+    "szuletesidatum": "2019-07-05",
+    "versenyekszama": 10
+  },
+  {
+    "id": 6,
+    "nev": "Aranyfuto",
+    "istalloId": 1,
+    "fajta": "Verseny lo",
+    "szuletesidatum": "2016-06-12",
+    "versenyekszama": 35
+  },
+  {
+    "id": 7,
+    "nev": "Sivatagi Szel",
+    "istalloId": 1,
+    "fajta": "Arab",
+    "szuletesidatum": "2017-08-18",
+    "versenyekszama": 22
+  },
+  {
+    "id": 8,
+    "nev": "Ebreszto",
+    "istalloId": 2,
+    "fajta": "Fogatverseny lo",
+    "szuletesidatum": "2015-11-25",
+    "versenyekszama": 28
+  },
+  {
+    "id": 9,
+    "nev": "Voros Csillag",
+    "istalloId": 2,
+    "fajta": "Arab",
+    "szuletesidatum": "2018-03-09",
+    "versenyekszama": 18
+  },
+  {
+    "id": 10,
+    "nev": "Melyviz",
+    "istalloId": 3,
+    "fajta": "Fogatverseny lo",
+    "szuletesidatum": "2016-01-14",
+    "versenyekszama": 27
+  },
+  {
+    "id": 11,
+    "nev": "Rohano Szel",
+    "istalloId": 2,
+    "fajta": "Angol teliver",
+    "szuletesidatum": "2019-10-30",
+    "versenyekszama": 12
+  },
+  {
+    "id": 12,
+    "nev": "Galoppzene",
+    "istalloId": 1,
+    "fajta": "Verseny lo",
+    "szuletesidatum": "2017-05-20",
+    "versenyekszama": 32
+  },
+  {
+    "id": 13,
+    "nev": "Hegyifolyo",
+    "istalloId": 3,
+    "fajta": "Sportlo",
+    "szuletesidatum": "2018-02-08",
+    "versenyekszama": 19
+  },
+  {
+    "id": 14,
+    "nev": "Holdfeny",
+    "istalloId": 3,
+    "fajta": "Arab",
+    "szuletesidatum": "2016-07-16",
+    "versenyekszama": 24
+  },
+  {
+    "id": 15,
+    "nev": "Napfeny",
+    "istalloId": 1,
+    "fajta": "Tinker",
+    "szuletesidatum": "2017-12-03",
+    "versenyekszama": 14
+  }
+]

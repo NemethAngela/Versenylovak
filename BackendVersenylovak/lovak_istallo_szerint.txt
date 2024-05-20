@@ -1,0 +1,5 @@
+2,Csillagfeny,2,Arab,2018. 09. 22. 0:00:00,15
+5,Hajnalcsillag,2,Tinker,2019. 07. 05. 0:00:00,10
+8,Ebreszto,2,Fogatverseny lo,2015. 11. 25. 0:00:00,28
+9,Voros Csillag,2,Arab,2018. 03. 09. 0:00:00,18
+11,Rohano Szel,2,Angol teliver,2019. 10. 30. 0:00:00,12
